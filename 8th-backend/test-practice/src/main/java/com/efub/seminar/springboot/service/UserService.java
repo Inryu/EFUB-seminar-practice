@@ -2,8 +2,8 @@ package com.efub.seminar.springboot.service;
 
 import com.efub.seminar.springboot.domain.User;
 import com.efub.seminar.springboot.domain.UserRepository;
-import web.dto.UserResponseDto;
-import web.dto.UserSaveRequestDto;
+import com.efub.seminar.springboot.web.dto.UserResponseDto;
+import com.efub.seminar.springboot.web.dto.UserSaveRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

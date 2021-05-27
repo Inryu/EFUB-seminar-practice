@@ -2,6 +2,7 @@ package com.efub.seminar.springboot.web.dto;
 
 import com.efub.seminar.springboot.domain.User;
 import com.efub.seminar.springboot.domain.UserType;
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
