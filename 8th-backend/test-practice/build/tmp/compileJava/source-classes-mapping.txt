@@ -14,7 +14,9 @@ com/efub/seminar/springboot/web/dto/UserResponseDto.java
  com.efub.seminar.springboot.web.dto.UserResponseDto
 com/efub/seminar/springboot/web/HelloController.java
  com.efub.seminar.springboot.web.HelloController
-com/efub/seminar/springboot/service/UserService.java
- com.efub.seminar.springboot.service.UserService
 com/efub/seminar/springboot/domain/UserRepository.java
  com.efub.seminar.springboot.domain.UserRepository
+com/efub/seminar/springboot/service/UserService.java
+ com.efub.seminar.springboot.service.UserService
+com/efub/seminar/springboot/web/UserController.java
+ com.efub.seminar.springboot.web.UserController
